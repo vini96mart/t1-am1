@@ -1,5 +1,15 @@
 # t1-am1
 Trabalho Prático 1 - Aprendizado de Máquina 1
 
-Arquivos utilizados para um trabalho prático na disciplina de Aprendizado de Máquina 1.
-Neste trabalho, foi executado um algoritmo de aprendizado de máquina supervisionado, com utilização de árvore de decisões e análise tanto dos dados quanto da acurácia da árvore.
+Gabrielle Scaranello Faria
+
+Matheus Coelho de Moura Ribeiro
+
+Vinícius Farias Martins
+
+Este repositório conta com:
+
+Dataset utilizado
+Declaração do dataset para interpretação do código
+Execução do algoritmo de árvore de decisão para agrupamento
+Link do Colab para melhor visualização do código: https://colab.research.google.com/drive/1SmpIe5iA8xZrz0r_sHn391cfId11iwJk?usp=sharing
